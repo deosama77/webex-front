@@ -1,0 +1,32 @@
+.product-table-card-header{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+
+}
+.product-table-container{
+    width: 90%;
+    margin: auto;
+    margin-top: 10px;
+}
+.product-table-main-status{
+   display: flex;
+    align-items: center;
+    margin-right: 2px;
+}
+table, td, th {
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+    text-align: left;
+}
+.product-table-main{
+    overflow:auto
+}
+

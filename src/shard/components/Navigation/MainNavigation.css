@@ -1,0 +1,19 @@
+.main-navigation-container{
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+    background-color: blue;
+    width: 100%;
+    align-items: center;
+    z-index: 5;
+    position: fixed;
+    top: 0;
+    left: 0;
+    box-shadow: 0 2px 4px rgba(0,0,0,.3);
+}
+
+.main-navigation-logo{
+    color: white;
+    margin-left: 20px;
+    font-size: 20px;
+}

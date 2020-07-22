@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4d6a6c6-93e0-4b92-9d83-82c69578ff4a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/front.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data/Products.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Home/pages/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/products/components/Product-table/ProductTable.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/products/components/Product-table/ProductTable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/products/components/Search/Search.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/products/components/Search/Search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/products/components/Status/Status.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/products/components/Status/Status.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/products/pages/NewProduct.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/products/pages/Products.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shard/components/FormElements/Button.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shard/components/FormElements/Button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shard/components/FormElements/Input.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shard/components/FormElements/Input.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shard/components/Navigation/MainNavLink/MainNavLink.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shard/components/Navigation/MainNavLink/MainNavLink.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shard/components/Navigation/MainNavigation.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shard/components/Navigation/MainNavigation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shard/components/UIElements/Card.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shard/components/UIElements/Card.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shard/context/auth-context.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shard/hooks/form-hook.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shard/util/validators.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/users/pages/Auth.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/users/pages/Auth.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1f0G1SHTu03BK3kSpiz1919gdVJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/shard" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\deosama77\WebstormProjects\node\webex\front\src\shard" />
+      <recent name="C:\Users\deosama77\WebstormProjects\node\webex\front\src\shard\components" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\deosama77\WebstormProjects\node\webex\front\src\shard" />
+      <recent name="C:\Users\deosama77\WebstormProjects\node\webex\front\src\shard\components" />
+      <recent name="C:\Users\deosama77\WebstormProjects\node\webex\front\src\users\pages" />
+      <recent name="C:\Users\deosama77\WebstormProjects\node\webex\front\src\shard\components\UIElements" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4d6a6c6-93e0-4b92-9d83-82c69578ff4a" name="Default Changelist" comment="" />
+      <created>1595347380650</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595347380650</updated>
+      <workItem from="1595347381763" duration="151000" />
+      <workItem from="1595347808104" duration="16946000" />
+      <workItem from="1595386258804" duration="5748000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="649" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1595396784318">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="649" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1595396784318" />
+  </component>
+</project>
