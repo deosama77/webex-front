@@ -1,13 +1,16 @@
 .search-container{
     display: flex;
     justify-content: space-between;
+    width: 90%;
+    margin: auto;
+    height: 200px;
 }
 .search-input-group{
     display: flex;
     align-items: center;
     margin-left: 20px;
     border: 1px solid black;
-    width: 300px;
+    width: 200px;
     height: 40px;
 }
 .search-input-group input{
@@ -39,12 +42,21 @@
 .search-button-status{
     display: flex;
     align-items: center;
-
 }
-
-@media (max-width: 600px) {
+.search-input-button{
+    height: 200px;
+}
+@media (min-width: 700px) {
     .search-input-group{
-        width: 200px;
-        flex-direction: column;
+        width: 300px;
+    }
+    .search-container{
+        display: flex;
+        justify-content: space-between;
+        width: 90%;
+        margin: auto;
+        height: 100px;
     }
 }
+
+
