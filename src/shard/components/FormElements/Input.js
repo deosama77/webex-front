@@ -9,7 +9,7 @@ const inputReducer = (state, action) => {
       return {
         ...state,
         value: action.val,
-        isValid: validate(action.val, action.validators)
+        isValid: validate(action.val, action.validators,action.val2)
       };
     case 'TOUCH': {
       return {
@@ -27,6 +27,7 @@ const Input = props => {
     value: props.initialValue || '',
     isTouched: false,
     isValid: props.initialValid || false
+
   });
 
   const { id, onInput } = props;
@@ -40,7 +41,8 @@ const Input = props => {
     dispatch({
       type: 'CHANGE',
       val: event.target.value,
-      validators: props.validators
+      validators: props.validators,
+      val2:props.valToMatch||""
     });
   };
 
@@ -59,6 +61,7 @@ const Input = props => {
         onChange={changeHandler}
         onBlur={touchHandler}
         value={inputState.value}
+        className={props.inlineBlock ? 'inline-inputs':''}
       />
     ) : (
       <textarea
@@ -67,15 +70,18 @@ const Input = props => {
         onChange={changeHandler}
         onBlur={touchHandler}
         value={inputState.value}
+
       />
     );
 
   return (
     <div
       className={`form-control ${!inputState.isValid && inputState.isTouched &&
-        'form-control--invalid'}`}
+        'form-control--invalid'} ${props.half ? 'half-width':''}` }
     >
-      <label htmlFor={props.id}>{props.label}</label>
+      {!props.half&&<label className={props.inlineBlock? 'inline-inputs':''}
+          htmlFor={props.id}>{props.label}</label>
+      }
       {element}
       {!inputState.isValid && inputState.isTouched && <p>{props.errorText}</p>}
     </div>

@@ -5,7 +5,7 @@
 
 .authentication {
   width: 90%;
-  max-width: 25rem;
+  max-width: 30rem;
   margin: 7rem auto;
   text-align: center;
 }
@@ -13,3 +13,17 @@
 .authentication form {
   margin-bottom: 1rem;
 }
+.authentication-form-header{
+  display: flex;
+  justify-content: space-between;
+}
+
+.authentication-conditions{
+  padding: 10px;
+}
+.authentication-password{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+

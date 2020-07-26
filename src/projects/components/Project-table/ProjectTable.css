@@ -1,0 +1,42 @@
+.project-table-card-header{
+    display: flex;
+    justify-content: space-between;
+
+    height:50px;
+}
+.project-table-container{
+    width: 90%;
+    margin : 0 auto;
+    margin-bottom: 60px;
+}
+.project-table-main-status{
+    display: flex;
+    align-items: center;
+    margin-right: 2px;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+.project-table-main{
+    overflow:auto;
+    margin-bottom: 20px;
+}
+.project-table-card-header-button{
+    height: 200px;
+}
+
+.project_table__modal-content {
+    padding: 0;
+}
+
+.project-table__modal-actions {
+    text-align: right;
+}
+

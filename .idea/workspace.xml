@@ -2,56 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4d6a6c6-93e0-4b92-9d83-82c69578ff4a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/front.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Data/Products.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Home/pages/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/products/components/Product-table/ProductTable.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/products/components/Product-table/ProductTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/products/components/Search/Search.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/products/components/Search/Search.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/products/components/Status/Status.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/products/components/Status/Status.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/products/pages/NewProduct.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/products/pages/Products.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/serviceWorker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/setupTests.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shard/components/FormElements/Button.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shard/components/FormElements/Button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shard/components/FormElements/Input.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shard/components/FormElements/Input.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shard/components/Navigation/MainNavLink/MainNavLink.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shard/components/Navigation/MainNavLink/MainNavLink.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shard/components/Navigation/MainNavigation.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shard/components/Navigation/MainNavigation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shard/components/UIElements/Card.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shard/components/UIElements/Card.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shard/context/auth-context.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shard/hooks/form-hook.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shard/util/validators.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/users/pages/Auth.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/users/pages/Auth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/projects/components/Project-table/ProjectTable.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/projects/components/Project-table/ProjectTable.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/projects/components/Project-table/ProjectTable.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/projects/components/Project-table/ProjectTable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/projects/pages/NewProject.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/projects/pages/NewProject.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/projects/pages/Project.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/projects/pages/Project.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/projects/pages/ProjectForm.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/projects/pages/ProjectForm.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/projects/pages/UpdateProject.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/projects/pages/UpdateProject.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shard/axios/axios-project.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/shard/axios/axios-project.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shard/axios/axios-user.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/shard/axios/axios-user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shard/components/FormElements/Input.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/shard/components/FormElements/Input.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shard/components/FormElements/Input.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/shard/components/FormElements/Input.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shard/components/Navigation/MainNavLink/MainNavLink.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/shard/components/Navigation/MainNavLink/MainNavLink.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shard/hooks/storage-hook.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/shard/hooks/storage-hook.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shard/util/urls.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/shard/util/urls.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shard/util/validators.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/shard/util/validators.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/users/pages/Auth.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/users/pages/Auth.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/users/pages/Login/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/users/pages/Login/Login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/users/pages/Signup/Signup.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/users/pages/Signup/Signup.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/users/pages/Signup/Signup.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/users/pages/Signup/Signup.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,22 +45,23 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/shard" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/shard/components/UIElements" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\deosama77\WebstormProjects\node\webex\front\src\shard\components\UIElements" />
+      <recent name="C:\Users\deosama77\WebstormProjects\node\webex\front\src\projects\pages" />
+      <recent name="C:\Users\deosama77\WebstormProjects\node\webex\front\src\projects\components" />
       <recent name="C:\Users\deosama77\WebstormProjects\node\webex\front\src\shard" />
       <recent name="C:\Users\deosama77\WebstormProjects\node\webex\front\src\shard\components" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\deosama77\WebstormProjects\node\webex\front\src\shard" />
       <recent name="C:\Users\deosama77\WebstormProjects\node\webex\front\src\shard\components" />
-      <recent name="C:\Users\deosama77\WebstormProjects\node\webex\front\src\users\pages" />
-      <recent name="C:\Users\deosama77\WebstormProjects\node\webex\front\src\shard\components\UIElements" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -102,17 +76,50 @@
       <updated>1595347380650</updated>
       <workItem from="1595347381763" duration="151000" />
       <workItem from="1595347808104" duration="16946000" />
-      <workItem from="1595386258804" duration="5748000" />
+      <workItem from="1595386258804" duration="8651000" />
+      <workItem from="1595414528576" duration="13797000" />
+      <workItem from="1595480942979" duration="40700000" />
+      <workItem from="1595565666198" duration="38973000" />
+      <workItem from="1595663214546" duration="6377000" />
+      <workItem from="1595740481004" duration="2771000" />
     </task>
+    <task id="LOCAL-00001" summary="init project webex front-end">
+      <created>1595397560491</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595397560491</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init project webex front-end" />
+    <option name="LAST_COMMIT_MESSAGE" value="init project webex front-end" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="649" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1595396784318">
+    <state x="449" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595516704575">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="649" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1595396784318" />
+    <state x="449" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1595516704575" />
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1595572455839">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1595572455839" />
+    <state x="301" y="0" key="CommitChangelistDialog2" timestamp="1595397558258">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="301" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1595397558258" />
+    <state x="462" y="105" key="FileChooserDialogImpl" timestamp="1595515492978">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1595515492978" />
+    <state x="649" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1595602592657">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="649" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1595602592657" />
   </component>
 </project>

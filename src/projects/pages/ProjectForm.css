@@ -1,10 +1,53 @@
-.place-form {
+.project-form {
   list-style: none;
   margin: 0 auto;
   padding: 1rem;
   width: 90%;
-  max-width: 40rem;
+  max-width: 50rem;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
   border-radius: 6px;
   background: white;
+}
+.project-form-row-inputs{
+   display: flex;
+    justify-content: space-evenly;
+}
+.project-form-title{
+    width: 70%;
+    margin: 0 auto;
+}
+
+.project-table-sub-menu{
+  margin: 0 auto;
+  position: relative;
+  cursor: pointer;
+}
+.project-table-sub-menu:hover .project-table-sub-icon-content{
+   display: block;
+}
+
+.project-table-sub-icon-content{
+    z-index: 2;
+    border-radius: 10px;
+    position: absolute;
+    display: none;
+    left: -70px;
+}
+.project-table-sub-icon-content a,
+.project-table-sub-icon-content button{
+  float: left;
+    text-decoration: none;
+    background-color: white;
+    padding: 8px 20px;
+    width: 100%;
+    border: 1px solid rgba(0,0,0,.2);
+    box-shadow: 0 1px 2px rgba(0,0,0,.2);
+    color: black;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+}
+.project-table-sub-icon-content a:hover,
+.project-table-sub-icon-content button:hover{
+    background-color: #ebebeb;
 }
