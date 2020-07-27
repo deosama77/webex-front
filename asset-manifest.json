@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/deosama77/webex-front.git/static/css/main.6f8a6464.chunk.css",
+    "main.js": "/deosama77/webex-front.git/static/js/main.7064684e.chunk.js",
+    "main.js.map": "/deosama77/webex-front.git/static/js/main.7064684e.chunk.js.map",
+    "runtime-main.js": "/deosama77/webex-front.git/static/js/runtime-main.fa5ec648.js",
+    "runtime-main.js.map": "/deosama77/webex-front.git/static/js/runtime-main.fa5ec648.js.map",
+    "static/js/2.0b07abcd.chunk.js": "/deosama77/webex-front.git/static/js/2.0b07abcd.chunk.js",
+    "static/js/2.0b07abcd.chunk.js.map": "/deosama77/webex-front.git/static/js/2.0b07abcd.chunk.js.map",
+    "index.html": "/deosama77/webex-front.git/index.html",
+    "precache-manifest.f7b52d43d5e9e231a1b087578a27c48f.js": "/deosama77/webex-front.git/precache-manifest.f7b52d43d5e9e231a1b087578a27c48f.js",
+    "service-worker.js": "/deosama77/webex-front.git/service-worker.js",
+    "static/css/main.6f8a6464.chunk.css.map": "/deosama77/webex-front.git/static/css/main.6f8a6464.chunk.css.map",
+    "static/js/2.0b07abcd.chunk.js.LICENSE.txt": "/deosama77/webex-front.git/static/js/2.0b07abcd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa5ec648.js",
+    "static/js/2.0b07abcd.chunk.js",
+    "static/css/main.6f8a6464.chunk.css",
+    "static/js/main.7064684e.chunk.js"
+  ]
+}
