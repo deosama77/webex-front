@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/deosama77/webex-front/static/css/main.6f8a6464.chunk.css",
-    "main.js": "/deosama77/webex-front/static/js/main.49602128.chunk.js",
-    "main.js.map": "/deosama77/webex-front/static/js/main.49602128.chunk.js.map",
-    "runtime-main.js": "/deosama77/webex-front/static/js/runtime-main.ff9b20d7.js",
-    "runtime-main.js.map": "/deosama77/webex-front/static/js/runtime-main.ff9b20d7.js.map",
-    "static/js/2.0b07abcd.chunk.js": "/deosama77/webex-front/static/js/2.0b07abcd.chunk.js",
-    "static/js/2.0b07abcd.chunk.js.map": "/deosama77/webex-front/static/js/2.0b07abcd.chunk.js.map",
-    "index.html": "/deosama77/webex-front/index.html",
-    "precache-manifest.8c07f134ce26352afb0e3c424b72b5fb.js": "/deosama77/webex-front/precache-manifest.8c07f134ce26352afb0e3c424b72b5fb.js",
-    "service-worker.js": "/deosama77/webex-front/service-worker.js",
-    "static/css/main.6f8a6464.chunk.css.map": "/deosama77/webex-front/static/css/main.6f8a6464.chunk.css.map",
-    "static/js/2.0b07abcd.chunk.js.LICENSE.txt": "/deosama77/webex-front/static/js/2.0b07abcd.chunk.js.LICENSE.txt"
+    "main.css": "/webex-front/static/css/main.6f8a6464.chunk.css",
+    "main.js": "/webex-front/static/js/main.530a2f7c.chunk.js",
+    "main.js.map": "/webex-front/static/js/main.530a2f7c.chunk.js.map",
+    "runtime-main.js": "/webex-front/static/js/runtime-main.42182a7d.js",
+    "runtime-main.js.map": "/webex-front/static/js/runtime-main.42182a7d.js.map",
+    "static/js/2.0b07abcd.chunk.js": "/webex-front/static/js/2.0b07abcd.chunk.js",
+    "static/js/2.0b07abcd.chunk.js.map": "/webex-front/static/js/2.0b07abcd.chunk.js.map",
+    "index.html": "/webex-front/index.html",
+    "precache-manifest.b548cd401e60c699024478f730d2ec06.js": "/webex-front/precache-manifest.b548cd401e60c699024478f730d2ec06.js",
+    "service-worker.js": "/webex-front/service-worker.js",
+    "static/css/main.6f8a6464.chunk.css.map": "/webex-front/static/css/main.6f8a6464.chunk.css.map",
+    "static/js/2.0b07abcd.chunk.js.LICENSE.txt": "/webex-front/static/js/2.0b07abcd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ff9b20d7.js",
+    "static/js/runtime-main.42182a7d.js",
     "static/js/2.0b07abcd.chunk.js",
     "static/css/main.6f8a6464.chunk.css",
-    "static/js/main.49602128.chunk.js"
+    "static/js/main.530a2f7c.chunk.js"
   ]
 }
