@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b4d6a6c6-93e0-4b92-9d83-82c69578ff4a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +62,7 @@
       <workItem from="1595565666198" duration="38973000" />
       <workItem from="1595663214546" duration="6377000" />
       <workItem from="1595740481004" duration="3862000" />
+      <workItem from="1595883630638" duration="1759000" />
     </task>
     <task id="LOCAL-00001" summary="init project webex front-end">
       <created>1595397560491</created>
